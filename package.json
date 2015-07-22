@@ -3,6 +3,6 @@
 "version" : "0.0.3",
 "dependencies" : {
 "express" : "~4.8.8",
-"connect":"~2.30."
+"connect":"~2.30.1"
 }
 }
